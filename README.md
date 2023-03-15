@@ -17,9 +17,10 @@ python3 backup.py
 Install requirements.txt before running the script
 
 Edit the backup.py file
-Replace these in the script api_id and api_hash
-
+Replace these in the script `api_id` and `api_hash`
 * [To get api id and hash](https://my.telegram.org/apps)
+Enter the numeric ID of your channel in the `chat_id` field of the script
+* [To get id channel](https://t.me/userinfobot)
 
 In the data section, write your server information
 ```     
