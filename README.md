@@ -26,11 +26,11 @@ api_id = 123456
 
 In the data section, write your server information
 ```     
-     {
-         "host": 'example',
-         "user": 'root',
-         "pass": 'Password',
-         'remote' : '/etc/x-ui/x-ui.db'
-     }
+ {
+   "host": 'example',
+   "user": 'root',
+   "pass": 'Password',
+   'remote' : '/etc/x-ui/x-ui.db'
+ }
 ```
  
