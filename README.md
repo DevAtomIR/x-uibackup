@@ -2,7 +2,7 @@
 Backup x-ui.db file on servers in <a href="https://github.com/FranzKafkaYu/x-ui">x-ui panel</a>
 <em><h5 align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="15" height="15" alt="backup"> (Programming Language - Python 3)</h5></em>
 
-<p align="center"><img src="https://i.imgur.com/ODoC9vE.png" width="100px" alt="atom"></p>
+
 
 ## Documentation
 **Clone and Install Script**
