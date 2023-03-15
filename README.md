@@ -32,6 +32,7 @@ In the data section, write your server information
 ```
 
 * [Developer](https://t.me/DevSecIR)
+
 **💰 Donation Links:**
 #### Donate Links
 <b>BTC</b>: <code>bc1qucxu8r6xza0l38zqsxrq3c6sunx880cm2tj4dr</code></br>
