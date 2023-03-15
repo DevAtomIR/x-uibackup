@@ -16,10 +16,10 @@ python3 backup.py
  ## How to use the script
  Install requirements.txt before running the script
 
-Edit the backup.py file
-Replace these in the script
-api_hash =
-api_id =
+ Edit the backup.py file
+ Replace these in the script
+ api_hash =
+ api_id =
 
 * [To get api id and hash](https://my.telegram.org/apps)
 
