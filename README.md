@@ -1,4 +1,4 @@
-<h1 align="center">x-ui Backup</h1> <img src="https://cdn-icons-png.flaticon.com/512/2818/2818765.png" width="16" height="16" alt="backup">
+<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/2818/2818765.png" width="16" height="16" alt="backup"> x-ui Backup</h1>
 Backup x-ui.db file on servers in <a href="https://github.com/FranzKafkaYu/x-ui">x-ui panel</a>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
