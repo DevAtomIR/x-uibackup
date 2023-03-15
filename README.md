@@ -18,8 +18,8 @@ Install requirements.txt before running the script
 
 Edit the backup.py file
 Replace these in the script
-api_hash
-api_id
+api hash
+api id
 
 * [To get api id and hash](https://my.telegram.org/apps)
 
