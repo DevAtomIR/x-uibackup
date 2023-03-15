@@ -4,7 +4,7 @@ from telethon import TelegramClient, events, Button
 import os
 
 # Coded by M.A.H
-# ID Telegram : @DevSecIR
+# ID Telegram : @DevAtom
 
 remote_path = '/etc/x-ui/x-ui.db'
 
