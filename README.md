@@ -37,6 +37,7 @@ Before running the script, please connect to the servers that you want to backup
 Better to set up a cron job for the script to automatically backup
 
 * [Developer](https://t.me/DevAtom)
+* [GitHub](https://github.com/DevAtomIR)
 
 
 #### 💰 Donation Links
