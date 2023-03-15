@@ -36,7 +36,7 @@ In the data section, write your server information
 Before running the script, please connect to the servers that you want to backup through SSH, so that your session is created in `~/.ssh/known_hosts.`
 
 
-* [Developer](https://t.me/DevSecIR)
+* [Developer](https://t.me/DevAtom)
 
 
 * 💰 Donation Links *
