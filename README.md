@@ -37,7 +37,7 @@ Before running the script, please connect to the servers that you want to backup
 Better to set up a cron job for the script to automatically backup
 
 * [Developer](https://t.me/DevAtom)
-* <img src="https://cdn-icons-png.flaticon.com/512/2818/2818765.png" width="15" height="15" alt="GitHub"> [GitHub](https://github.com/DevAtomIR)
+* <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="15" height="15" alt="GitHub"> [GitHub](https://github.com/DevAtomIR)
 
 
 #### 💰 Donation Links
