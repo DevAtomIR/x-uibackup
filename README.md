@@ -36,7 +36,7 @@ In the data section, write your server information
 Before running the script, please connect to the servers that you want to backup through SSH, so that your session is created in `~/.ssh/known_hosts.`\
 Better to set up a cron job for the script to automatically backup
 
-* [Developer](https://t.me/DevAtom) <img src="https://i.imgur.com/1rC9PEX.png" width="15" height="15" alt="GitHub">
+* [Developer](https://t.me/DevAtom)
 * [GitHub](https://github.com/DevAtomIR)
 
 
