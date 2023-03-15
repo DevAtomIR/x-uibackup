@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/2818/2818765.png" width="30" height="30" alt="backup"> x-ui Backup</h1>
 Backup x-ui.db file on servers in <a href="https://github.com/FranzKafkaYu/x-ui">x-ui panel</a>
-<em><h5 align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="15" height="15" alt="backup"> (Programming Language - Python 3)</h5></em>
+<em><h5 align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="15" height="15" alt="python"> (Programming Language - Python 3)</h5></em>
 
 
 
@@ -37,7 +37,7 @@ Before running the script, please connect to the servers that you want to backup
 Better to set up a cron job for the script to automatically backup
 
 * [Developer](https://t.me/DevAtom)
-* [GitHub](https://github.com/DevAtomIR)
+* <img src="https://cdn-icons-png.flaticon.com/512/2818/2818765.png" width="15" height="15" alt="GitHub"> [GitHub](https://github.com/DevAtomIR)
 
 
 #### 💰 Donation Links
