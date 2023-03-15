@@ -13,8 +13,8 @@ pip install -r requirements.txt
 python3 backup.py
 ```
  
- ## How to use the script
- Install requirements.txt before running the script
+## How to use the script
+Install requirements.txt before running the script
 
 Edit the backup.py file
 Replace these in the script
