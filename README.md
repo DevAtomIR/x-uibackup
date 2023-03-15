@@ -7,7 +7,7 @@ Backup x-ui.db file on servers in <a href="https://github.com/FranzKafkaYu/x-ui"
 ## Documentation
 **Clone and Install Script**
 ```
-git clone https://github.com/AnonSecIR/x-uibackup/
+git clone https://github.com/DevAtomIR/x-uibackup/
 cd x-uibackup
 pip install -r requirements.txt
 python3 backup.py
