@@ -35,7 +35,7 @@ In the data section, write your server information
 📝Note :
 Before running the script, please connect to the servers that you want to backup through SSH, so that your session is created in `~/.ssh/known_hosts.`
 <p style="color:red">Better to set up a cron job for the script to automatically backup</p>
-
+<font color="green"> Some green text </font>
 
 
 * [Developer](https://t.me/DevAtom)
