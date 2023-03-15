@@ -20,7 +20,7 @@ python3 backup.py
 
 Edit the backup.py file
 Replace these in the script
-api_hash = ''
+api_hash = '' \n
 api_id = 123456
 * [To get api id and hash](https://my.telegram.org/apps)
 
