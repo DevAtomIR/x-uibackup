@@ -43,5 +43,5 @@ Better to set up a cron job for the script to automatically backup
 #### 💰 Donation Links
 
 <b>BTC</b> : <code>bc1qucxu8r6xza0l38zqsxrq3c6sunx880cm2tj4dr</code></br>
-<b>TRON</b> : <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>
+<b>TRON</b> : <code>TML3NtgE8J6iqR8UFq5JuCthwvbjH6KH7U</code></br>
 <b>USDT(TRC20)</b> : <code>TExYVr8ZPHf9FJcnimD9wnnUTwbBjGZFxk</code></br></br>
